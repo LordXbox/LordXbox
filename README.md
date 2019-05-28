@@ -1,1 +1,1 @@
-# LordXbox
+# Before getting started, head over to your csgo launch settings and type "-console +exec autoexec" in order for this to function, also, go into your csgo cfg folder in the local files and put the autoexec.cfg file in there. 
