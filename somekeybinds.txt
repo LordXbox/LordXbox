@@ -1,0 +1,9 @@
+buy menu = space (put that in using csgo keyboard settings as i cant find a bind command for it) 
+
+bind "mwheelup" +jump 
+bind "mwheeldown" +jump 
+bind - "say_team go win man" 
+BindToggle f6 voice_enable 
+
+// most keybinds are already in the autoexec.cfg file but add these in as well (except the top line obviously) 
+you can do this by inputting them into autoexec.cfg and saving it as autoexec.cfg under all file types 
